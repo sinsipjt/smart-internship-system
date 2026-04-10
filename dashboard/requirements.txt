@@ -2,4 +2,4 @@ Flask==2.3.3
 pandas==2.0.3
 Werkzeug==2.3.7
 Jinja2==3.1.2
-gunicorn
+gunicorn==21.2.0
